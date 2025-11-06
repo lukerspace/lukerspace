@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ming Hsieh (@lukerspace)
 
-💡 Portfolio manager & Quantitative Researcher & FinTech Engineer  
+💡 Portfolio Manager & Quantitative Researcher & FinTech Engineer  
 Building investment frameworks and scalable data infrastructure.
 
 ### 🚀 About Me
