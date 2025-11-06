@@ -10,7 +10,6 @@ Building investment frameworks and scalable data infrastructure.
 - 📊 Projects include:
   - [Factor-Module-LongShort-Strategy-System]
   - [Inhouse-Strategy-Monitor-PnL]
-  - [Alphainsight Dashboard]
 
 ### 🌱 Learning & Research Focus
 - AI-enhanced portfolio optimization  
