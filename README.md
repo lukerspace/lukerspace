@@ -6,7 +6,8 @@ Building investment frameworks and scalable data infrastructure.
 ### 🚀 About Me
 - 🔭 Currently developing **factor-based long/short strategies** and **automated PnL monitoring systems**.  
 - 🧠 Experienced in **quantitative research**, **financial modeling**, and **portfolio risk management**.  
-- 🧰 Tech stack: Python (FastAPI, Pandas, NumPy), React, AWS (ECS/S3), Docker, GitLab CI/CD.  
+- 🧰 Tech stack: Python (FastAPI, Pandas, NumPy), React, AWS (ECS/S3), Docker, GitLab CI/CD.
+- 📫 Site (https://kicksvc.online)
 - 📊 Projects include:
   - [Factor-Module-LongShort-Strategy-System]
   - [Inhouse-Strategy-Monitor-PnL]
