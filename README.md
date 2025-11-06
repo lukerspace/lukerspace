@@ -1,9 +1,7 @@
-## 👋 Hi there, I'm Luker (@lukerspace)
+## 👋 Hi there, I'm Ming Hsieh (@lukerspace)
 
 💡 Portfolio manager & Quantitative Researcher & FinTech Engineer  
 Building investment frameworks and scalable data infrastructure.
-
----
 
 ### 🚀 About Me
 - 🔭 Currently developing **factor-based long/short strategies** and **automated PnL monitoring systems**.  
@@ -14,14 +12,10 @@ Building investment frameworks and scalable data infrastructure.
   - [Inhouse-Strategy-Monitor-PnL]
   - [Alphainsight Dashboard]
 
----
-
 ### 🌱 Learning & Research Focus
 - AI-enhanced portfolio optimization  
 - Reinforcement learning in trading systems  
 - FinTech infrastructure (data pipelines, deployment, visualization)
-
----
 
 ### 📫 Get in Touch
 - 📧 Email: lukerspace@gmail.com  
