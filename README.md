@@ -13,14 +13,7 @@ Building investment frameworks and scalable data infrastructure.
   - [Inhouse-Strategy-Monitor-PnL]
 
 ### 🌱 Learning & Research Focus
-- AI-enhanced portfolio optimization  
-- Reinforcement learning in trading systems  
-- FinTech infrastructure (data pipelines, deployment, visualization)
+- AI-enhanced portfolio optimization  - Reinforcement learning in trading systems  - FinTech infrastructure (data pipelines, deployment, visualization)
 
 ### 📫 Get in Touch
 - 📧 Email: lukerspace@gmail.com  
-- 🌐 GitHub: [github.com/lukerspace](https://github.com/lukerspace)  
-- 💬 Always open to discuss quant research, AI trading, and FinTech innovation.
-
----
-⚡ *“Turning data into alpha through engineering precision.”*
