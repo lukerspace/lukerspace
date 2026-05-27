@@ -8,7 +8,7 @@ Building investment frameworks and scalable data infrastructure.
 - 📫 Site (https://kicksvc.online)
   
 ### 🌱 Learning & Research Focus
-- AI-enhanced portfolio optimization  - Reinforcement learning in trading systems  - FinTech infrastructure (data pipelines, deployment, visualization)
+- AI-enhanced portfolio optimization  - Reinforcement learning in trading systems
 
 ### 📫 Get in Touch
 - 📧 Email: lukerspace@gmail.com  
